@@ -1,0 +1,100 @@
+D:\klaster\pdf\pdf3zad3\bin\Debug\net8.0-windows\pdf3zad3.exe
+D:\klaster\pdf\pdf3zad3\bin\Debug\net8.0-windows\pdf3zad3.deps.json
+D:\klaster\pdf\pdf3zad3\bin\Debug\net8.0-windows\pdf3zad3.runtimeconfig.json
+D:\klaster\pdf\pdf3zad3\bin\Debug\net8.0-windows\pdf3zad3.dll
+D:\klaster\pdf\pdf3zad3\bin\Debug\net8.0-windows\pdf3zad3.pdb
+D:\klaster\pdf\pdf3zad3\bin\Debug\net8.0-windows\OxyPlot.dll
+D:\klaster\pdf\pdf3zad3\bin\Debug\net8.0-windows\OxyPlot.Wpf.dll
+D:\klaster\pdf\pdf3zad3\bin\Debug\net8.0-windows\OxyPlot.Wpf.Shared.dll
+D:\klaster\pdf\pdf3zad3\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\klaster\pdf\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3.csproj.AssemblyReference.cache
+D:\klaster\pdf\pdf3zad3\obj\Debug\net8.0-windows\MainWindow.baml
+D:\klaster\pdf\pdf3zad3\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\klaster\pdf\pdf3zad3\obj\Debug\net8.0-windows\App.g.cs
+D:\klaster\pdf\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3_MarkupCompile.cache
+D:\klaster\pdf\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3.g.resources
+D:\klaster\pdf\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3.GeneratedMSBuildEditorConfig.editorconfig
+D:\klaster\pdf\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3.AssemblyInfoInputs.cache
+D:\klaster\pdf\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3.AssemblyInfo.cs
+D:\klaster\pdf\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3.csproj.CoreCompileInputs.cache
+D:\klaster\pdf\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3.csproj.Up2Date
+D:\klaster\pdf\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3.dll
+D:\klaster\pdf\pdf3zad3\obj\Debug\net8.0-windows\refint\pdf3zad3.dll
+D:\klaster\pdf\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3.pdb
+D:\klaster\pdf\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3.genruntimeconfig.cache
+D:\klaster\pdf\pdf3zad3\obj\Debug\net8.0-windows\ref\pdf3zad3.dll
+C:\Users\Asus\Desktop\pdf3zad3\bin\Debug\net8.0-windows\pdf3zad3.exe
+C:\Users\Asus\Desktop\pdf3zad3\bin\Debug\net8.0-windows\pdf3zad3.deps.json
+C:\Users\Asus\Desktop\pdf3zad3\bin\Debug\net8.0-windows\pdf3zad3.runtimeconfig.json
+C:\Users\Asus\Desktop\pdf3zad3\bin\Debug\net8.0-windows\pdf3zad3.dll
+C:\Users\Asus\Desktop\pdf3zad3\bin\Debug\net8.0-windows\pdf3zad3.pdb
+C:\Users\Asus\Desktop\pdf3zad3\bin\Debug\net8.0-windows\OxyPlot.dll
+C:\Users\Asus\Desktop\pdf3zad3\bin\Debug\net8.0-windows\OxyPlot.Wpf.dll
+C:\Users\Asus\Desktop\pdf3zad3\bin\Debug\net8.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\Asus\Desktop\pdf3zad3\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Asus\Desktop\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\pdf3zad3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Asus\Desktop\pdf3zad3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Asus\Desktop\pdf3zad3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Asus\Desktop\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3_MarkupCompile.cache
+C:\Users\Asus\Desktop\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3.g.resources
+C:\Users\Asus\Desktop\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3.AssemblyInfo.cs
+C:\Users\Asus\Desktop\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3.csproj.Up2Date
+C:\Users\Asus\Desktop\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3.dll
+C:\Users\Asus\Desktop\pdf3zad3\obj\Debug\net8.0-windows\refint\pdf3zad3.dll
+C:\Users\Asus\Desktop\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3.pdb
+C:\Users\Asus\Desktop\pdf3zad3\obj\Debug\net8.0-windows\pdf3zad3.genruntimeconfig.cache
+C:\Users\Asus\Desktop\pdf3zad3\obj\Debug\net8.0-windows\ref\pdf3zad3.dll
+C:\Users\Asus\Desktop\Zadanie_3\bin\Debug\net8.0-windows\pdf3zad3.exe
+C:\Users\Asus\Desktop\Zadanie_3\bin\Debug\net8.0-windows\pdf3zad3.deps.json
+C:\Users\Asus\Desktop\Zadanie_3\bin\Debug\net8.0-windows\pdf3zad3.runtimeconfig.json
+C:\Users\Asus\Desktop\Zadanie_3\bin\Debug\net8.0-windows\pdf3zad3.dll
+C:\Users\Asus\Desktop\Zadanie_3\bin\Debug\net8.0-windows\pdf3zad3.pdb
+C:\Users\Asus\Desktop\Zadanie_3\bin\Debug\net8.0-windows\OxyPlot.dll
+C:\Users\Asus\Desktop\Zadanie_3\bin\Debug\net8.0-windows\OxyPlot.Wpf.dll
+C:\Users\Asus\Desktop\Zadanie_3\bin\Debug\net8.0-windows\OxyPlot.Wpf.Shared.dll
+C:\Users\Asus\Desktop\Zadanie_3\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\Asus\Desktop\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Zadanie_3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Asus\Desktop\Zadanie_3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Asus\Desktop\Zadanie_3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Asus\Desktop\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3_MarkupCompile.cache
+C:\Users\Asus\Desktop\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3.g.resources
+C:\Users\Asus\Desktop\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3.csproj.Up2Date
+C:\Users\Asus\Desktop\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3.dll
+C:\Users\Asus\Desktop\Zadanie_3\obj\Debug\net8.0-windows\refint\pdf3zad3.dll
+C:\Users\Asus\Desktop\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3.pdb
+C:\Users\Asus\Desktop\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Zadanie_3\obj\Debug\net8.0-windows\ref\pdf3zad3.dll
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\bin\Debug\net8.0-windows\pdf3zad3.exe
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\bin\Debug\net8.0-windows\pdf3zad3.deps.json
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\bin\Debug\net8.0-windows\pdf3zad3.runtimeconfig.json
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\bin\Debug\net8.0-windows\pdf3zad3.dll
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\bin\Debug\net8.0-windows\pdf3zad3.pdb
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\bin\Debug\net8.0-windows\OxyPlot.dll
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\bin\Debug\net8.0-windows\OxyPlot.Wpf.dll
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\bin\Debug\net8.0-windows\OxyPlot.Wpf.Shared.dll
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3.csproj.AssemblyReference.cache
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\obj\Debug\net8.0-windows\App.g.cs
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3_MarkupCompile.cache
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3.g.resources
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3.AssemblyInfoInputs.cache
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3.AssemblyInfo.cs
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3.csproj.CoreCompileInputs.cache
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3.csproj.Up2Date
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3.dll
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\obj\Debug\net8.0-windows\refint\pdf3zad3.dll
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3.pdb
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\obj\Debug\net8.0-windows\pdf3zad3.genruntimeconfig.cache
+D:\Studia\ROK III\Programowanie współbieżne\Laborki\Zadania nr 3\Zadanie_3\obj\Debug\net8.0-windows\ref\pdf3zad3.dll
